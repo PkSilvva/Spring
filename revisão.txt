@@ -1,0 +1,17 @@
+Resposta http: 
+	Status code - Obrigatório
+	Body - Opcional
+
+Campos obrigatórios:
+
+Get - Requisição 
+	Verbo e URL
+POST - Requisição
+	Verbo, URL, Header e body
+GET - Resposta
+	Status code e body
+POST - Resposta
+	Status code
+
+
+

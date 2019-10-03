@@ -1,0 +1,6 @@
+#FileLock
+#Thu Sep 26 21:16:22 BRT 2019
+server=192.168.56.1\:65117
+hostName=STFSAON003652-L.stefanini.dom
+method=file
+id=16d7013539c862a60c74cde062752ebe3a4173342df
