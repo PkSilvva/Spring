@@ -1,0 +1,13 @@
+br\com\bandtec\projetopw\controller\LoginController.class
+br\com\bandtec\projetopw\controller\Credenciais.class
+br\com\bandtec\projetopw\domain\Cidadao.class
+br\com\bandtec\projetopw\domain\SistemaDoGoverno.class
+br\com\bandtec\projetopw\domain\ConsultaNoSUS.class
+br\com\bandtec\projetopw\repository\TodosCidadaos.class
+br\com\bandtec\projetopw\domain\Usuario.class
+br\com\bandtec\projetopw\controller\UsuariosController.class
+br\com\bandtec\projetopw\domain\CPF.class
+br\com\bandtec\projetopw\ProjetoPwApplication.class
+br\com\bandtec\projetopw\repository\TodosUsuarios.class
+br\com\bandtec\projetopw\infra\SegurancaDaAplicacao.class
+br\com\bandtec\projetopw\domain\Municipio.class
